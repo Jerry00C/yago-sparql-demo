@@ -34,7 +34,7 @@ easy to trace.
 
 ## Demo
 
-[▶ Watch the Streamlit demo](asset/demo.mp4)
+<video src="asset/demo.mp4" width="600" controls></video>
 
 The frontend shows the original question, structured LLM output, validation,
 generated SPARQL, raw YAGO response, and extracted answers one step at a time.
