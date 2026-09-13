@@ -34,8 +34,10 @@ easy to trace.
 
 ## Demo
 
-[▶ Watch the demo video](asset/demo.mp4)
-<video src="asset/demo.mp4" width="600" controls></video>
+
+https://github.com/user-attachments/assets/50b0ed16-859d-44e5-919f-4240323f8295
+
+
 
 The frontend shows the original question, structured LLM output, validation,
 generated SPARQL, raw YAGO response, and extracted answers one step at a time.
