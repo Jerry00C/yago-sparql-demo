@@ -34,6 +34,7 @@ easy to trace.
 
 ## Demo
 
+[▶ Watch the demo video](asset/demo.mp4)
 <video src="asset/demo.mp4" width="600" controls></video>
 
 The frontend shows the original question, structured LLM output, validation,
